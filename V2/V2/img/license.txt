@@ -1,0 +1,8 @@
+Original reference:
+https://freesvg.org/sports-car
+
+License
+Public Domain
+https://wiki.creativecommons.org/wiki/public_domain
+
+Optimized with https://jakearchibald.github.io/svgomg/
